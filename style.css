@@ -1,0 +1,11 @@
+.card-header {
+  background-color: darkturquoise;
+  font-weight: bolder;
+}
+.card-body {
+  background-color: rgb(192, 227, 238);
+  border-radius: 10px;
+}
+.card text-center {
+  border-radius: 80px;
+}
